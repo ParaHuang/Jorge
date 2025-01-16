@@ -57,6 +57,20 @@ public class Main1 {
 			System.out.println("excellent\n" + grade);
 		}
 		
+//		int x = 10;
+//		
+//		if(x<20) {
+//			System.out.println("hello");
+//			x*=10;//->100
+//		}else {
+//			System.out.println("hey");
+//		}
+//		
+		
+		
+		
+		
+		
 		
 		
 		
